@@ -1,18 +1,34 @@
-#### Hello there, I'm Stanisław Bilewski
-📔 I'm a Computer Science student at the Poznan University of Technology in Poland
+### Hello there, I'm Stanisław
 
-👀 I’m interested in Software Development and Computer Graphics
+#### About me:
 
-🌱 I’m currently learning Vulkan, Rust and CUDA
+🏢 **Professional Role**:  
+Currently working as a C++ Software Engineer.
 
-Technologies I use include:
-- Python
-- C++
-- Java
-- OpenGL
-- Vulkan
-- Rust
-- Kotlin
+👨🏻‍🎓 **Education**:  
+- **BSc in Computer Science** (2023), Poznan University of Technology, Poland  
+- **MSc in Artificial Intelligence** (2024), Poznan University of Technology, Poland  
+
+🛠️ **Some of the technologies and tools I use**:  
+- **Programming Languages**: Python, C++, Java, Rust, Kotlin, Swift  
+- **Graphics and Rendering**: OpenGL, Vulkan, GLSL  
+- **UI/UX Development**: Qt, Dear ImGui, SwiftUI  
+- **AI/ML**: TensorFlow, PyTorch, OpenCV  
+- **Tools**: Git, CMake, DVC, Subversion  
+
+👀 **Interests**:  
+- Software Development
+- Artificial Intelligence
+- Computer Graphics
+- Game Development
+- Physics
+- Cognitive Science
+- Music
+
+🎮 **In my spare time**:
+- Experimenting with Unreal Engine
+- Reading and implementing recipes from *"Game Physics Cookbook"* by Gabor Szauer
+- Playing guitar, *Dark Souls*, or one of *The Elder Scrolls* games 😉
 
 <!---
 StanislawBilewski/StanislawBilewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
